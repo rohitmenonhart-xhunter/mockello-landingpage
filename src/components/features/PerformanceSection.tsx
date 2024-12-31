@@ -14,7 +14,7 @@ export const PerformanceSection = () => (
       Track your performance and compete with your college peers. Each college has its own dedicated scoreboard to foster healthy competition.
     </p>
     <a
-      href="https://mockello-svce-scoreboard.vercel.app/"
+      href="https://mockellosvcescoreboard.vercel.app/"
       target="_blank"
       rel="noopener noreferrer"
       className="text-blue-600 font-semibold hover:text-blue-700 transition-colors"
