@@ -40,10 +40,10 @@ export const InterviewSection = () => (
     
     <div className="text-center mt-12">
       <a
-        href="#contact"
+        href="https://forms.gle/tVFS5kJJU2KRjSi7A"
         className="inline-block bg-white text-[#b13c74] px-8 py-4 rounded-full font-semibold hover:bg-opacity-90 transition-opacity"
       >
-        Contact for Pricing
+        Go ahead register your slot!
       </a>
     </div>
   </motion.div>
