@@ -11,7 +11,7 @@ export const AptitudeSection = () => (
     <BrainCircuit className="w-12 h-12 text-blue-600 mb-4" />
     <h3 className="text-2xl font-semibold mb-4">Round 1: Aptitude Assessment</h3>
     <p className="text-gray-600 mb-4">
-      Free aptitude tests for students under registered colleges. Currently available for SVCE students, with more colleges joining soon!
+      Aptitude tests for students under registered colleges, with more students joining soon!
     </p>
     <a
       href="https://pages.razorpay.com/Mockello"
