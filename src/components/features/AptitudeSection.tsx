@@ -14,7 +14,7 @@ export const AptitudeSection = () => (
       Aptitude tests for students under registered colleges, with more students joining soon!
     </p>
     <a
-      href="https://pages.razorpay.com/Mockello"
+      href="https://jazzy-alfajores-a7cbd1.netlify.app/"
       target="_blank"
       rel="noopener noreferrer"
       className="text-blue-600 font-semibold hover:text-blue-700 transition-colors"
