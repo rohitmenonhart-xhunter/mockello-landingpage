@@ -11,7 +11,7 @@ export const PerformanceSection = () => (
     <Trophy className="w-12 h-12 text-blue-600 mb-4" />
     <h3 className="text-2xl font-semibold mb-4">College Leaderboard</h3>
     <p className="text-gray-600 mb-4">
-      Track your performance and compete with your college peers. Each college has its own dedicated scoreboard to foster healthy competition.
+      Track your performance and compete with your other college peers.
     </p>
     <a
       href="https://mockellosvcescoreboard.vercel.app/"
@@ -19,7 +19,7 @@ export const PerformanceSection = () => (
       rel="noopener noreferrer"
       className="text-blue-600 font-semibold hover:text-blue-700 transition-colors"
     >
-      SVCE Scoreboard →
+      Scoreboard →
     </a>
   </motion.div>
 );
