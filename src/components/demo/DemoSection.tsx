@@ -98,10 +98,10 @@ export const DemoSection = () => {
             </div>
 
             <motion.a
-              href="#contact"
+              href="https://forms.gle/tVFS5kJJU2KRjSi7A"
               className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-blue-600 to-[#b13c74] text-white rounded-full text-lg font-semibold hover:opacity-90 transition-opacity"
             >
-              Try it Now
+              Go ahead register your slot!
               <ChevronRight className="w-5 h-5" />
             </motion.a>
           </motion.div>
