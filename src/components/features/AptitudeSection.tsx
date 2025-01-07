@@ -14,7 +14,7 @@ export const AptitudeSection = () => (
       Free aptitude tests for students under registered colleges. Currently available for SVCE students, with more colleges joining soon!
     </p>
     <a
-      href="https://mockello-aptituderound.vercel.app/"
+      href="https://pages.razorpay.com/Mockello"
       target="_blank"
       rel="noopener noreferrer"
       className="text-blue-600 font-semibold hover:text-blue-700 transition-colors"
